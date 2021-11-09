@@ -4,10 +4,10 @@ from nltk import word_tokenize
 from nltk.tokenize import sent_tokenize
 import re
 
-f2 = open('C:/Users/alies/PycharmProjects/NLP/holmes-tok.txt', 'w')
+f2 = open(sys.argv[2])
 
 text = []
-with open('C:/Users/alies/PycharmProjects/NLP/holmes.txt', 'r') as f:
+with open(sys.argv[1]) as f:
     for line in f:
         text.append(line.strip())
 
@@ -16,4 +16,7 @@ sentences = sent_tokenize(text)
 for sen in sentences:
     tokens = word_tokenize(sen)
     for tok in tokens:
-        f2.write(f'{tok}\n')
+        print(tok)
+    print()
+
+f2.close()
