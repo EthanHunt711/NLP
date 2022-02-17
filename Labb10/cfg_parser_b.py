@@ -18,7 +18,7 @@ def parse_sentences(grammar, sent):
 	return trees
 
 if __name__ == '__main__':
-	sen = 'She spoke to CNN Style about the experience.'
+	sen = 'Global warming has caused a change in the pattern of the rainy seasons.'
 	g = read_grammar('grammar.txt')
 	trees = parse_sentences(g,sen)
 	for tree in trees:
