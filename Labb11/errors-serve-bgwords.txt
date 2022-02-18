@@ -1,0 +1,931 @@
+There are 232 errors!
+----------------------------
+
+1) example number: 0
+    sentence: at the fort worth sale , for instance , a repossessed 1985 chevrolet camaro with 41 , 000 miles sold for $ 5 , 300 , roughly what a bank might lend for the car and $ 1 , 850 less than its top retail price , according to the kelley blue book auto-price guide . public auto auctions aren 't to be confused with the large , dealer-only sales , which SERVE as a clearinghouse for many of the used cars sold in the u . s .
+    guess: SERVE6;  label: SERVE2
+
+2) example number: 6
+    sentence: the proposal met such a barrage of criticism that mr . pierce authorized the study . the report said , however , that three areas should be reviewed further : reducing competitive advantages over private insurers , limiting overlap in types of borrowers SERVED by fha and private firms , and possible conversion of fha into a reinsurer of mortgages .
+    guess: SERVE12;  label: SERVE6
+
+3) example number: 8
+    sentence: but negroes cannot be lumped into any single cultural category : the only defining characteristic , as we use the term in the united states , is evidence of some share of colored ancestry , usually showing in terms of skin color , hair form , or perhaps facial features . such traits hardly define a way of life ; but they can be and are used as caste marks , SERVING as identification to the dominant group in enforcing limitations on activity .
+    guess: SERVE12;  label: SERVE2
+
+4) example number: 10
+    sentence: when they reached the bank of the gray don , warriors were waiting with a flat barge to float the sacks of food and powder down the river to the fort . because he wanted to join his brother , stenka went on the massive barge , taking his black horse with him , although he was still too young to SERVE in a cossack regiment .
+    guess: SERVE2;  label: SERVE12
+
+5) example number: 16
+    sentence: she slipped through a thick tangle at the edge of the abandoned village and was attracted by the rustling of several rats that were working through a kitchen midden , when a more enticing sound caught her attention . even before she began her stalk on the rats she swung through one of the thatch-roofed pole huts and leaped easily onto a wooden platform that had once SERVED as a bed for an entire seminole family .
+    guess: SERVE12;  label: SERVE2
+
+6) example number: 18
+    sentence: wagner and brown contributed capital and their own talents and information to the partnership to be used for acquisition of unocal stock . target shareholders are SERVED by a legal system that makes it possible for takeover specialists to share information with others without a formal pre-offer partnership agreement .
+    guess: SERVE2;  label: SERVE6
+
+7) example number: 19
+    sentence: mr . huelskoetter declined to comment . mr . walker most recently SERVED as manager of international market development for a division of fmc corp . , the company said .
+    guess: SERVE6;  label: SERVE12
+
+8) example number: 20
+    sentence: in many cases , purchasers of charitable gift annuities pay 25 % to 30 % more than they would pay an insurance company or brokerage firm for an annuity providing the same level of income . but , says conrad teitell , a white plains , n . y . , tax lawyer who SERVES as the unpaid counsel to the committee , " an insurance company doesn 't educate youngsters , heal the sick or save a soul . "
+    guess: SERVE6;  label: SERVE12
+
+9) example number: 26
+    sentence: before leaving for vietnam he had begun hearing testimony about more shootings in the co luy area by task force barker that day . the unit in question was bravo company , 4th battalion , 3rd infantry , which had SERVED as a blocking force two miles to the east of my lai 4 .
+    guess: SERVE6;  label: SERVE2
+
+10) example number: 31
+    sentence: two people were trained at a large state-run factory and then instructed others . bao gong operates thirteen other simple cooperatives that SERVE as the maoist equivalents of subcontractors to larger plants .
+    guess: SERVE6;  label: SERVE2
+
+11) example number: 41
+    sentence: through scattering raindrops they hurried to the commons , or pasture grounds , of the city . benjamin waited inside a shed that SERVED as a shelter from bad weather .
+    guess: SERVE12;  label: SERVE2
+
+12) example number: 43
+    sentence: not being able to supply equipment to tokyo , nagoya and eastern japan " provides us very little opportunity to sell , " says stephen l . levy , motorola 's executive vice president in charge of japan . daini denden 's , and thus motorola 's , failure to win the right to SERVE the entire japanese market has made american officials here cynical .
+    guess: SERVE12;  label: SERVE6
+
+13) example number: 44
+    sentence: if these delicacies were fresh rather than frozen and took only a few minutes to prepare , people might even pay white-tablecloth prices for them . with such reasoning , companies like campbell soup co . , general foods corp . , sara lee corp . and some retailers are rushing to SERVE up their own " fresh , refrigerated " meals .
+    guess: SERVE12;  label: SERVE10
+
+14) example number: 45
+    sentence: as the conquered lands came under the domination of the greeks , thousands of cattle were added to the greek herds . cattle were all-purpose animals to the greeks , SERVING as food , for labor and as objects of religious worship .
+    guess: SERVE10;  label: SERVE2
+
+15) example number: 46
+    sentence: he stumbled blindly along the passage leading to his quarters . before he could close the door of the little cubicle that SERVED as a cabin , the squadron leader 's big shoulders blocked the opening .
+    guess: SERVE10;  label: SERVE2
+
+16) example number: 47
+    sentence: we want the united states to back up our defense , but we don 't want an american " presence " . but we feel that the u . s . must follow through with its new resolve not to SERVE as the continuing " policeman " for the world .
+    guess: SERVE6;  label: SERVE2
+
+17) example number: 48
+    sentence: he heard the scarecrow fall to the ground with a mushy sound , and then he himself quickly dismounted and looked at his friend jack . the wooden body , with its gorgeous clothing , still sat upright upon the horse 's back ; but the pumpkin head was gone , and only the sharpened stick that SERVED for a neck was visible .
+    guess: SERVE12;  label: SERVE2
+
+18) example number: 49
+    sentence: this notion was akin to the child 's notion that living in a hotel is free because you don 't pay for anything , you only sign your name ; that is to say , the notion is true some of the time but times do come when it is not true . such a time came for the advertising business , along with the economy it SERVED , with the 1930 's .
+    guess: SERVE12;  label: SERVE6
+
+19) example number: 51
+    sentence: iron , magnesium , manganese , molybdenum , calcium , chromium , cobalt , copper , and zinc are known to be essential to life , and vanadium , nickel , and tin are thought to be . metals , often incorporated into proteins , SERVE as catalysts that initiate or assist in biological reactions .
+    guess: SERVE12;  label: SERVE2
+
+20) example number: 52
+    sentence: in the bar of " 21 " he used to nurse a single drink all night when he was short of funds , in order to meet people and perhaps drum up some new accounts . with another young couple , the roger van schoycks , the mahoneys also appeared frequently at the stork club , to SERVE as background scenery for a tv interview show .
+    guess: SERVE12;  label: SERVE2
+
+21) example number: 53
+    sentence: marco polo saw with his own eyes how the mongols were bringing peace and order to the wild lands in the heart of asia ; how they had linked up distant corners of their empire by a system of swift messengers , and had established a standard currency to encourage trade . the polos carried golden tablets of safe-conduct from kublai khan , which SERVED as passports and ensured them the best service at inns and posthouses where fresh horses could be found for the journey .
+    guess: SERVE6;  label: SERVE2
+
+22) example number: 57
+    sentence: yair sings three sabbath songs he has learned in kindergarten . i SERVE baked fish .
+    guess: SERVE12;  label: SERVE10
+
+23) example number: 61
+    sentence: the sec economists concluded that trying to end the price run-up is dangerous . " legitimate research gives some traders informational advantages and their earnings SERVE as compensation for their efforts , " the report says .
+    guess: SERVE12;  label: SERVE2
+
+24) example number: 67
+    sentence: if it weren 't for love . . . the sugimoto family had sold their telephone , along with their bechstein piano . the telegraph now SERVED for the phone ; even matters of little urgency were communicated to them by telegraph from osaka .
+    guess: SERVE10;  label: SERVE2
+
+25) example number: 69
+    sentence: is it ever welcome ! she thought , feeling satisfied for the first time in twelve hours . the coffee , SERVED in a dainty cup with a proper napkin , was the best maris had had since she left home .
+    guess: SERVE12;  label: SERVE10
+
+26) example number: 70
+    sentence: if the new draft draws criticism , it won 't be anything new to the commission . beginning with a flap over who should SERVE on the commission that delayed its start for a year , running through criticism of the september draft , and continuing with the uproar over the death penalty , the panel has been continually tangled in controversy .
+    guess: SERVE6;  label: SERVE12
+
+27) example number: 73
+    sentence: in a corner , on a second pile of hay , mike kelly and mark lay side by side , sound asleep . kelly had the rifle cradled in his left arm ; his right was stretched beneath mark 's brown head to SERVE as a pillow .
+    guess: SERVE10;  label: SERVE2
+
+28) example number: 75
+    sentence: the air force bases being studied are : blytheville and little rock in arkansas , grand forks and minot in north dakota , whiteman in missouri , barksdale in louisiana , dyess in texas , fairchild in washington , malmstrom in montana and wurtsmith in michigan . as previously announced , warren air force base in wyoming would SERVE as the main operating base for the rail-car missiles .
+    guess: SERVE6;  label: SERVE2
+
+29) example number: 78
+    sentence: he began her education . he taught her not to SERVE spaghetti because it was messy to eat and made it seem as if they could not afford to pay a butcher .
+    guess: SERVE2;  label: SERVE10
+
+30) example number: 88
+    sentence: when i had a tea , it would always be twenty or thirty . never any less than half a dozen different kinds of cake were ever SERVED in this house .
+    guess: SERVE12;  label: SERVE10
+
+31) example number: 90
+    sentence: dues sixty cents now are a dollar a year . lunch of coffee and goodies SERVED by three hostesses for a cost of ten cents now lunch served by five hostesses at a cost of fifteen cents ( still reasonable ) .
+    guess: SERVE12;  label: SERVE10
+
+32) example number: 92
+    sentence: taverns were the way stations for the stagecoaches that were beginning to link the colonies together . there were no hotels , so the upstairs rooms of the grogshop SERVED for the traveler who had to stay overnight to await the next stage .
+    guess: SERVE12;  label: SERVE2
+
+33) example number: 94
+    sentence: a guest must be a guest , then , and welcome gladly whatever was offered . the second course was fish , SERVED on flat plates of leather .
+    guess: SERVE2;  label: SERVE10
+
+34) example number: 96
+    sentence: " what do you hear , deetzer old man , " foley said . " i hear they SERVE a drink here now and then , " the black man said .
+    guess: SERVE12;  label: SERVE10
+
+35) example number: 99
+    sentence: the commissioners approved the temporary registration on a 4-0 vote , with commissioner aulana peters absent . chicago-based mortgage-backed securities clearing , which was created to SERVE as the centralized agency , technically doesn 't fall under the sec 's jurisdiction until the government securities act of 1986 goes into effect in july .
+    guess: SERVE12;  label: SERVE2
+
+36) example number: 100
+    sentence: others build their properties around a golf course or natural lake and then use these facilities as basic selling points to justify the entire project . most of the time , though , facilities that SERVE the community commercially and culturally grow up around it .
+    guess: SERVE2;  label: SERVE6
+
+37) example number: 102
+    sentence: a fourth , dolmy business inc . , was formed in november 1985 . the same month , southern air transport bought a fifth panamanian shell corporation , amalagamated commercial enterprises ( ace ) to SERVE as a front for the miami carrier 's work on behalf of a secret airlift ferrying arms into nicaragua .
+    guess: SERVE6;  label: SERVE2
+
+38) example number: 103
+    sentence: " light my fire " was coming through the loudspeakers around the pool at the upper deck , one of montego bay 's most luxurious resort hotels . the man from michigan , buoyed by the free rum punch that had been SERVED between 5 : 00 and 7 : 00 , was well into his monologue .
+    guess: SERVE2;  label: SERVE10
+
+39) example number: 107
+    sentence: the press is screaming for dowling 's head . SERVED up with an apple in his mouth .
+    guess: SERVE12;  label: SERVE10
+
+40) example number: 115
+    sentence: keep it covered . you do not have to take the tree apart to give the balls to the guests ; but food which SERVES as a decoration soon gets too dusty to eat .
+    guess: SERVE10;  label: SERVE2
+
+41) example number: 118
+    sentence: it had nearly proved fatal to me also . and falconbridge was SERVING on the better class of english slaver .
+    guess: SERVE10;  label: SERVE12
+
+42) example number: 126
+    sentence: when the pictures are complete , they form a very interesting mural and become a topic of conversation for all . the type of food and where it will be SERVED will depend upon the number of guests , how long they will stay , and how large the host home is .
+    guess: SERVE2;  label: SERVE10
+
+43) example number: 129
+    sentence: using the dining room does , of course , mean extra work for the housewife . a dinette , breakfast nook , or area in the kitchen itself where family meals can be SERVED at the kitchen table minimizes " dining room work . "
+    guess: SERVE2;  label: SERVE10
+
+44) example number: 132
+    sentence: mrs . loevinger says lefse are easier to handle than the recipe sounds , but that it is really a job for two people one to roll out the lefse , and one to flip them on the grill . yield : 15 pancakes danish festsuppe is often SERVED at special gatherings during the holidays .
+    guess: SERVE12;  label: SERVE10
+
+45) example number: 134
+    sentence: " they give me the best treatment , " says mike garcia , an officer of the leather goods , plastic and novelty workers ' union , who says he banks at amalgamated because of its labor roots . amalgamated has reported 44 consecutive years of profit and has grown to $ 1 . 47 billion in assets by SERVING two overlapping constituencies : middle-class consumers and organized labor .
+    guess: SERVE12;  label: SERVE6
+
+46) example number: 135
+    sentence: Can't print sentence
+    guess: SERVE2;  label: SERVE6
+
+47) example number: 136
+    sentence: substantial modernisation of farming techniques could be undertaken , and capital projects begun . as they pointed out in liuling , " before the people 's commune was set up , we had begun building a dam that was to SERVE three different cooperative farms .
+    guess: SERVE12;  label: SERVE6
+
+48) example number: 137
+    sentence: morgan olmstead , a brokerage holding company , is based in los angeles . mr . schnabel is SERVING as the u . s . ambassador to finland .
+    guess: SERVE6;  label: SERVE12
+
+49) example number: 139
+    sentence: your main course is what is known as a " short order " one it has to be finished off at the last minute . therefore it is much easier for you to SERVE the fruit as dessert in this instance .
+    guess: SERVE12;  label: SERVE10
+
+50) example number: 140
+    sentence: in fact , given the highly developed u . s . transportation infrastructure , few if any shippers are truly " captive " to rails . the best case is made by electric utilities that have power plants SERVED by coal-hauling roads , but big utilities don 't lack bargaining power .
+    guess: SERVE12;  label: SERVE6
+
+51) example number: 141
+    sentence: the very quality of life is on the line , for education benefits all of society , not just those who sit in classrooms . meeting the challenge will take a positive effort by the colleges and universities and by all the rest of us who are SERVED .
+    guess: SERVE10;  label: SERVE6
+
+52) example number: 144
+    sentence: the british influence is also apparent in detroit 's new " beat commander " project , launched several months ago in a heavily negro area with a crime rate that is above the city-wide average and rising . instead of being constantly shifted about , two dozen policemen will SERVE for an entire year in a roughly one-square-mile area containing about 15 , 000 people .
+    guess: SERVE6;  label: SERVE12
+
+53) example number: 147
+    sentence: they chose 100 guinea pigs 15 percent of them high achievers , bound for college ; 60 percent average students ; 25 percent low-achieving potential dropouts . another 100 , similarly chosen , SERVED as a control group whose work in the regular program would provide a yardstick to measure allied health project achievement .
+    guess: SERVE12;  label: SERVE2
+
+54) example number: 149
+    sentence: " this very short notice seemed intended to surprise us , " he observed . at noon on january 11 , 1774 , franklin walked to the cockpit , a section of whitehall palace which had actually SERVED as an arena for fighting cocks in the days of henry viii .
+    guess: SERVE10;  label: SERVE2
+
+55) example number: 151
+    sentence: indians elsewhere in the colony were herded into plymouth and isolated on clark 's island in the harbor . in spite of all this the cape tribes proved to be faithful and very useful allies , SERVING both as scouts and on the firing line .
+    guess: SERVE10;  label: SERVE12
+
+56) example number: 154
+    sentence: at a time when the country has moved into an era of greater and greater public spending , it is more important than ever to examine the process by which projects and priorities evolve and the big chunks of cash get committed . for the over-all design of the mall , governor rockefeller turned to wallace k . harrison , who was the co-architect for rockefeller center some forty years ago when nelson was SERVING an apprenticeship in the family business .
+    guess: SERVE2;  label: SERVE12
+
+57) example number: 162
+    sentence: then blanche mcgraw took the roses from rigney and sat back sadly to watch the last game . it didn 't matter that the park would survive a few more years and for two seasons would even SERVE as the temporary home of a team to be called the new york mets .
+    guess: SERVE12;  label: SERVE2
+
+58) example number: 167
+    sentence: there were dirty trays , and wine-coolers en permanence on the sideboard , huge dirty gilt cornices , with dingy yellow satin hangings to the barred windows which looked into cursitor street vast and dirty gilt picture-frames surrounding pieces sporting and sacred , all of which works were by the greatest masters ; and fetched the greatest prices , too , in the bill transactions , in the course of which they were sold and bought over and over again . the colonel 's breakfast was SERVED to him in the same dingy and gorgeous plated ware .
+    guess: SERVE2;  label: SERVE10
+
+59) example number: 168
+    sentence: members of a prosperous family and most seem to be prospering repair half a dozen times a year to the photographer 's studio to celebrate the latest event . a betrothal , a wedding , christening , first communion , birthday , anniversary , first tooth , first menstruation , new pregnancy almost anything will SERVE as a pretext .
+    guess: SERVE12;  label: SERVE2
+
+60) example number: 172
+    sentence: the u . a . w . reached a settlement with general motors only after a sixty-seven-day strike that cost the union treasury more than $ 157 million ; in fact , the union had to borrow $ 30 million from g . m . itself during the strike . woodcock claims that the u . a . w . settlements were anti-inflationary , and that they could SERVE as a model for the rest of industry .
+    guess: SERVE6;  label: SERVE2
+
+61) example number: 173
+    sentence: most of these students sleep in the dormitory which is a part of the same building . furthermore , plans are currently being developed to SERVE the three meals per day in this building , starting in the fall of 1969 .
+    guess: SERVE2;  label: SERVE10
+
+62) example number: 176
+    sentence: " in south america people refer to pesticide as 'plant medicine ' and they don 't think medicine is dangerous , " says agi kiss , a pesticides expert with the world bank in washington . in culiacan and other third world farming regions , discarded plastic pesticide containers frequently SERVE as water buckets .
+    guess: SERVE12;  label: SERVE2
+
+63) example number: 177
+    sentence: and the big banks take advantage of this weakness by insisting that the small banks keep on deposit unusually heavy non-earning balances . in general , the small banks SERVE their local communities very poorly .
+    guess: SERVE10;  label: SERVE6
+
+64) example number: 178
+    sentence: spouses of industry employees would no longer be able to SERVE as public arbitrators . the proposal would affect about 20 % of the 3 , 000 to 4 , 000 people who serve as arbitrators , mostly lawyers , accountants and industry professionals , according to sec officials .
+    guess: SERVE6;  label: SERVE12
+
+65) example number: 180
+    sentence: hard lines to have to give up such prizes , though . " he sat in the armchair under the vent , waiting for sangh to SERVE lunch while merewether finished his report and locked it away in the strongbox . "
+    guess: SERVE12;  label: SERVE10
+
+66) example number: 183
+    sentence: the romans made better use of their cattle than did the greeks , and the roman herds provided food , labor and hides . cheese was a major food in the roman diet and was introduced into germany , england , france , switzerland and the low countries by romans SERVING in those lands .
+    guess: SERVE10;  label: SERVE12
+
+67) example number: 185
+    sentence: here , at the ngiu kee department store , cosmetologists demonstrate the new bio line of natural-ingredient makeup put out by kenebo , the japanese cosmetics firm . at the sha na na fast-food shop , " halal " food -- food acceptable to orthodox muslims -- is SERVED : halal fish-head curry costs $ 1 . 28 , while a halal cheeseburger goes for 68 cents .
+    guess: SERVE12;  label: SERVE10
+
+68) example number: 188
+    sentence: most psychiatrists who get government referrals are cautious men themselves , respectable practitioners . now if you can provide any instance , any occurrence , that might SERVE as real evidence ; but mere suspicions won 't do .
+    guess: SERVE12;  label: SERVE2
+
+69) example number: 195
+    sentence: seeks stories that the child 8 to 12 will eagerly read , and the child 2 to 6 will like to hear when read to him . " we print no stories just to be read aloud ; they must SERVE a two-fold purpose .
+    guess: SERVE10;  label: SERVE2
+
+70) example number: 199
+    sentence: tracking devices have also benefited greatly from the growing power of computers . for example , using implanted transponders which interact with radio signals from a mainframe computer , b . i . inc . 's system of identification for cows instructs feeding machines , also controlled by the mainframe , to SERVE up different diets for certain animals .
+    guess: SERVE6;  label: SERVE10
+
+71) example number: 201
+    sentence: it had a high , vaulted ceiling , random-width floorboards , and a huge stone fireplace where four or five big logs were beginning to blaze . overhead , an open balcony lined with bunks evidently SERVED as a dormitory .
+    guess: SERVE6;  label: SERVE2
+
+72) example number: 207
+    sentence: he lives in london near hampton court by the river thames with his wife and daughter . david eliades was born in london where he spent his early childhood " SERVING tea to firemen fighting the fires in the london blitz . "
+    guess: SERVE12;  label: SERVE10
+
+73) example number: 208
+    sentence: in this age of moderation , the popularity of a cocktail mix surprised several marketers . but these , made by coca-cola , can be SERVED with or without alcohol .
+    guess: SERVE12;  label: SERVE10
+
+74) example number: 212
+    sentence: he had treated her ill , and had left her nothing but her eyes to cry with , her house to live in and the privilege of refusing her sympathy to all other unfortunate people , because , as she used to say , she had suffered everything that it was possible to suffer . ( 1 at the hopital des capucins . ) ( 2 a work by fenelon , describing telemachus ' search for his father ulysses . ) ( 3 georges cadoudal ( 1771-1804 ) was a soldier and intriguer ; charles pichegru ( 1761-1804 ) was a general . ) as sylvie , the stout cook , heard her mistress ' step , she made haste to SERVE the breakfast of the regular boarders .
+    guess: SERVE12;  label: SERVE10
+
+75) example number: 213
+    sentence: the jewelry company said it will report a gain of about $ 2 million on the sale in the fiscal first quarter of 1988 . designcraft said the building will SERVE its purposes better if the company doesn 't own it .
+    guess: SERVE6;  label: SERVE2
+
+76) example number: 221
+    sentence: soon almost a general fight was in progress . i tried to place a guard out around our camp , but all were drunk and refused to SERVE .
+    guess: SERVE2;  label: SERVE12
+
+77) example number: 225
+    sentence: oklahoma ! also invaded the world outside the united states . companies sprouted in europe , scandinavia , south africa , australia , and in every pacific area where american armed troops SERVING in world war ii were stationed .
+    guess: SERVE6;  label: SERVE12
+
+78) example number: 226
+    sentence: within ten years , the trust territory 's budget has quadrupled to almost $ 60 million . almost 300 peace corps volunteers are SERVING in the islands , 75 percent of them teaching micronesian teachers to teach english as a second language .
+    guess: SERVE6;  label: SERVE12
+
+79) example number: 227
+    sentence: " she waited while catherine finished the sickeningly sweet tea . then she told her what time breakfast was SERVED , and went out .
+    guess: SERVE12;  label: SERVE10
+
+80) example number: 228
+    sentence: in fact , kim dae jung believes the government is talking openly about the prospects of confrontation with protesters in order to create a climate of fear in the country . such fear could SERVE two purposes : provide a pretext for a military crackdown or , short of that , encourage koreans to vote for the ruling party candidate as a step toward stability .
+    guess: SERVE12;  label: SERVE2
+
+81) example number: 232
+    sentence: whatever the institutions ' strategy , companies generally don 't like it . " our pill SERVES a legitimate purpose , " says a spokesman for amr corp . , the holding company for american airlines .
+    guess: SERVE6;  label: SERVE2
+
+82) example number: 235
+    sentence: it was too early to actually meet them so once they got to their destination , a friendly little community on the outskirts of the city , lepeters and ellen rosenberg took up a position behind a hedge , the one where an old man had once jumped out and traumatically snapped her panties . peering out in the moonlight , lepeters first saw an elderly gentleman relaxing in a reclining chair while a stocky woman SERVED him what appeared to be bowls of stew .
+    guess: SERVE12;  label: SERVE10
+
+83) example number: 239
+    sentence: or participate in ticket-selling campaigns . a community theater can function as a remarkably cohesive force for the community it SERVES , and few people who get hung up on the activity ever quit .
+    guess: SERVE2;  label: SERVE6
+
+84) example number: 247
+    sentence: retired industry employees and lawyers who have occasionally represented brokerage firms would be transferred to the industry roster within three years . spouses of industry employees would no longer be able to SERVE as public arbitrators .
+    guess: SERVE6;  label: SERVE12
+
+85) example number: 248
+    sentence: such machine-readable text can be sent to distant points economically over phone lines . it can SERVE as computer input .
+    guess: SERVE10;  label: SERVE2
+
+86) example number: 255
+    sentence: against this background , in october , 1970 , there came a letter to the ftc from representative joe l . evins of tennessee . the tva , which SERVES evins ' constituents , had just raised its electricity rates 25 percent .
+    guess: SERVE10;  label: SERVE6
+
+87) example number: 256
+    sentence: people had to get rid of them somehow . well into the new year , they were SERVED in every conceivable form to aspiring priests , nuns and brothers who , under the then strict and unquestionable rule of obedience , had no choice but to eat them .
+    guess: SERVE12;  label: SERVE10
+
+88) example number: 257
+    sentence: if well seasoned , it is tasty and refreshing . unfortunately much of the " cole slaw " SERVED these days is simply cabbage with oil and vinegar .
+    guess: SERVE2;  label: SERVE10
+
+89) example number: 259
+    sentence: the larger , round , yellow onion , known as the bermuda or spanish onion , is milder , with a rather sweet flavor . this is popular , sliced and broiled , with steak and hamburger , or SERVED raw with sliced tomatoes .
+    guess: SERVE12;  label: SERVE10
+
+90) example number: 261
+    sentence: and then there are more esoteric items . richard j . bertero , a trustee of the california academy of sciences , recently gave $ 25 , 000 to the academy to fund restoration of the stuffed grizzly bear that in 1952 SERVED as a model for california 's current state flag .
+    guess: SERVE12;  label: SERVE2
+
+91) example number: 282
+    sentence: these tiny birds weigh only about 1 pound each . SERVE one to a person .
+    guess: SERVE2;  label: SERVE10
+
+92) example number: 286
+    sentence: on the frozen rinks in the 1880 's there were no goalies ' cages . what SERVED as a goal were two poles bored into the ice .
+    guess: SERVE12;  label: SERVE2
+
+93) example number: 287
+    sentence: perhaps the most controversial exploit so far was the one that came at the expense of the red brick walls of town hall . to set it up , a consortium member first went to the municipality and asked for a permit to SERVE a communal meal -- a " faellesspisning " -- on the sidewalk next to the building .
+    guess: SERVE12;  label: SERVE10
+
+94) example number: 290
+    sentence: the whole period was a dim phase for me , lit with brief flashes of insight into incidentals that did not personally concern me . i went about the trivial business of the day , planned meals , shopped for and prepared them , SERVED them and saw to their clearing away .
+    guess: SERVE12;  label: SERVE10
+
+95) example number: 297
+    sentence: in the first quarter ended july 31 , geac had a net loss of $ 2 . 9 million on revenue of $ 15 . 9 million . an official of peat marwick ltd . , which agreed to SERVE as the creditors ' trustee under the restructuring plan , said the plan is similar to a chapter 11 bankruptcy-law filing in the u . s . , under which a company seeks time from its creditors to reorganize its business .
+    guess: SERVE6;  label: SERVE12
+
+96) example number: 298
+    sentence: in the heat of a may afternoon , thousands of navy men poured over the bridge into the well-kept garrison of tromoey , which had been a german coast-artillery base for years . our enlisted men were billeted in barracks ; fred and i joined a group of officers and took over a neat farmhouse that had SERVED as a club .
+    guess: SERVE12;  label: SERVE2
+
+97) example number: 300
+    sentence: this spiral stair , known as the " snail , " adjoins palazzo contarini del bovolo , the residence of a noble family in the early 1500 's . today , like many restored palaces , it is divided into apartments and offices SERVED by an elevator .
+    guess: SERVE2;  label: SERVE6
+
+98) example number: 303
+    sentence: until the fifteenth century , beeswax candles were used almost exclusively in churches because of an ancient belief that bees originated in paradise . when the candles harden , volunteers trim the base with red and green paper frills that SERVE as decoration and protection against the drip of hot wax .
+    guess: SERVE10;  label: SERVE2
+
+99) example number: 306
+    sentence: but there also is a general reluctance to drop the belief , so expertly nurtured by the terrorists , that the abductors are merely desperate victims of unspeakable injustices acting spontaneously and autonomously to attract attention to their plight . thus it was , even after it became obvious that terry waite 's role in the release of hostages was to SERVE as a fig leaf for the tehran arms deal , that support for his mission remained unshaken .
+    guess: SERVE12;  label: SERVE2
+
+100) example number: 309
+    sentence: Can't print sentence
+    guess: SERVE12;  label: SERVE6
+
+101) example number: 310
+    sentence: allowed to cross the mexican border , juan jose arevalo appeared briefly in guatemala city on march 31 . this , in turn , SERVED as the pretext for compelling ydigoras to give up his office , a maneuver directed by colonel enrique peralta azurdia , minister of defense .
+    guess: SERVE12;  label: SERVE2
+
+102) example number: 316
+    sentence: moreover , bustamante and his advisors in guatemala city wisely encouraged this refusal by promising to upgrade the status of their governments in the hierarchy of town and city rankings and by granting choice appointments to the molinas of san vicente , the barroetas of san miguel , and the carcamos of santa ana . in addition , bustamante sent two prominent creoles from guatemala city to SERVE as peace emissaries ; one of them replaced the spanish-born intendant , who presumably had abused his authority at san salvador .
+    guess: SERVE6;  label: SERVE12
+
+103) example number: 320
+    sentence: lord baltimore authorized the coining of shillings , sixpence , and groats , which were backed by tobacco . because of the widespread local acceptance of the currency , many economic worries were averted ( although tobacco itself had to SERVE for many years as the medium of exchange in international trade ) .
+    guess: SERVE12;  label: SERVE2
+
+104) example number: 321
+    sentence: neither mexico city nor cuzco was founded by the spaniards : the conquerors simply occupied the indian capitals and gradually replaced the native constructions with edifices of european style . in cuzco , part of the ancient construction sometimes SERVED as a foundation for the new .
+    guess: SERVE12;  label: SERVE2
+
+105) example number: 324
+    sentence: a mini-ojo , made from very fine crochet thread or sport or fingering yarn and woven on a skeleton of matchsticks or toothpicks , is a perfect good luck charm . it may be hung from the rearview mirror of your car , attached to a pocketbook , belt or key chain , or stitched to a piece of rawhide or a comb to SERVE as a hair ornament .
+    guess: SERVE10;  label: SERVE2
+
+106) example number: 336
+    sentence: traffic on the ben franklin bridge , for example , has dropped between 2 and 3 percent , as measured during a twenty-four-hour period . that may not sound like much of a reduction , but it came about despite substantial growth in the numbers of people and automobiles in the region SERVED by the line .
+    guess: SERVE12;  label: SERVE6
+
+107) example number: 342
+    sentence: meanwhile , the boom hasn 't made a dent in the huge pool of adults who aren 't counted in the labor force because they aren 't even looking for work . " if new york 's comeback didn 't SERVE as a magnet , under what conceivable circumstances can we see these people coming into the mainstream ? " asks mr . ehrenhalt of the bureau of labor statistics .
+    guess: SERVE12;  label: SERVE2
+
+108) example number: 345
+    sentence: we 've been letting the boys saw the bars off the windows . " during my investigation , i searched for communities which had tackled the problem and which might SERVE as models for the rest of the nation .
+    guess: SERVE12;  label: SERVE2
+
+109) example number: 348
+    sentence: mr . nelson , who is related to two senior care enterprises officials , owns about 10 % of care 's class a common and about 22 % of its class b common , representing a total of 1 . 8 million shares . the shares would SERVE as collateral for the loan .
+    guess: SERVE6;  label: SERVE2
+
+110) example number: 351
+    sentence: he could feign such innocence when challenged that i soon gave up altogether . when he once SERVED pineapple upside-down cake with green olives substituted for the pineapple , he convinced me i had ordered it that way .
+    guess: SERVE2;  label: SERVE10
+
+111) example number: 352
+    sentence: when the pilgrims offered to supply these on credit , the bay leaders thanked them but still opposed the project , at length frankly saying that they " had no mind to it , " fearing a violent reaction on the part of the pequot , 3 , 000 or 4 , 000 strong . very well then , said winslow , who was SERVING his first term as governor of plymouth , did they have any objections to plymouth going ahead alone ?
+    guess: SERVE10;  label: SERVE12
+
+112) example number: 353
+    sentence: some groups have imported from other countries uses of alcohol that can be classed as dietary , as explained earlier . for these people the holiday feast would not live up to expectations if wine weren 't SERVED .
+    guess: SERVE2;  label: SERVE10
+
+113) example number: 361
+    sentence: both buildings were steel frames embedded in concrete , but the concrete was not expressed on the exterior . steel i-beams painted black were applied to the facades to SERVE as window mullions and to provide vertical accents .
+    guess: SERVE10;  label: SERVE2
+
+114) example number: 368
+    sentence: the hospital unit was dumped in a cricket field outside bloemfontein . a handsome pavilion , its stage , still set with a garish scene from h . m . s . pinafore , SERVED as the main ward .
+    guess: SERVE12;  label: SERVE2
+
+115) example number: 369
+    sentence: it was divided into pens of various sizes by heavy wire mesh stretched between a framework of tubing , so that the caged animals were always in sight of anyone in the four personnel corridors which ran fore and aft along the sides of the enclosure . the food and water dispensers also differed in size and complexity , and were fitted to the common wall between two cages so as to SERVE both .
+    guess: SERVE2;  label: SERVE6
+
+116) example number: 374
+    sentence: behind the barracks are two privies , both four-seaters . the door to the women 's privy is missing , but the rank growth of weeds SERVES as a door .
+    guess: SERVE6;  label: SERVE2
+
+117) example number: 375
+    sentence: rubinstein found a cottage for his family in the little village of saint-nicholas-de-veroce . he rented the only upright piano in the village and put it in a windowless garage that would SERVE as a studio .
+    guess: SERVE10;  label: SERVE2
+
+118) example number: 383
+    sentence: they took the gourd from me when i handed it to them , and that was all . after they had drunk , they just let it hang there in their hands , and i had to reach and get it so i could SERVE another one .
+    guess: SERVE2;  label: SERVE10
+
+119) example number: 395
+    sentence: their savages ' feet , brown and hardened , re-experience the weight of the great shoes we have thoughtfully studded and strengthened with nails . a pair of good " everyday shoes " for adolescents is as weighty as a shackle and our ballasted children frolicked with a shorter stride during those last recreations that SERVED as dress-rehearsals before reassembly .
+    guess: SERVE10;  label: SERVE2
+
+120) example number: 396
+    sentence: even then , the unashamedly neo-nazi german reich party managed to elect five members to the 1949 bundestag and its successor had to be banned , that is driven underground , in 1952 . there were , however , two other parties which , between 1949 and 1961 , SERVED as a convenient rallying ground for right-wing groups .
+    guess: SERVE12;  label: SERVE2
+
+121) example number: 399
+    sentence: however , contemporary authorities suspect that greater attention was given to the christmas feast . among foods known to have been SERVED were game pies , oysters , and wild duck .
+    guess: SERVE12;  label: SERVE10
+
+122) example number: 402
+    sentence: he has a strange yearning for the sea now . when we are shut up indoors by the rain , the rug and armchair SERVE as ocean and harbor .
+    guess: SERVE12;  label: SERVE2
+
+123) example number: 408
+    sentence: vasso wheeled through her guests like a dervish , urging them to eat , to drink . the priest , SERVED by vasso and by his wife , ate as though he had fasted for forty days .
+    guess: SERVE12;  label: SERVE10
+
+124) example number: 419
+    sentence: some claim that this was the promised land sought by moses , others say it was the site of the garden of eden . forty miles from beirut , the road to damascus is cut by a massive stone overpass and gateway , which SERVES as the border control of lebanon .
+    guess: SERVE10;  label: SERVE2
+
+125) example number: 420
+    sentence: frankie , an " image consultant , " meets them both after she 's hired to sell the idea of sending ulysses on a space mission to the public . either because of the way the scientist 's part is written , or the way mr . malkovich plays it , or both , dr . peters is too much of an airheaded caspar milquetoast to be a plausible villain , too insubstantial to SERVE as a satirical vision of the " perfectly " unemotional man .
+    guess: SERVE12;  label: SERVE2
+
+126) example number: 430
+    sentence: in sum , on the issue of verification , the agreement is ambiguous at best , utterly dependent upon the soviets not cheating at worst . history provides ample testimony to the soviets ' willingness to exploit ambiguity in arms-control agreements and -- where that is insufficient to SERVE their purposes -- to flatly cheat , a point that this administration , to its credit , has repeatedly reminded the american public of .
+    guess: SERVE12;  label: SERVE2
+
+127) example number: 442
+    sentence: across one end was an old-fashioned grate and mantel , and above them a large plate glass mirror . just now the room was SERVING as a bedroom .
+    guess: SERVE10;  label: SERVE2
+
+128) example number: 444
+    sentence: i called in a band of them and realized i could not trust concepcion to be simon legree . she showed a disturbing tendency to flirt and SERVE beer .
+    guess: SERVE2;  label: SERVE10
+
+129) example number: 451
+    sentence: by mid-1944 , there were more than 8 , 000 spars in the coast guard . they SERVED as storekeepers , receptionists , mail clerks , telephone and teletype operators , chauffeurs , radio operators and technicians .
+    guess: SERVE10;  label: SERVE12
+
+130) example number: 464
+    sentence: in some cases your parents must get tickets in advance , and they must always plan for transportation . sometimes you can SERVE refreshments at home , before the show or game , especially if you have reserved seats .
+    guess: SERVE12;  label: SERVE10
+
+131) example number: 466
+    sentence: be careful not to burn yourself . note ii this is a typical spanish dessert and was SERVED on holidays and important occasions .
+    guess: SERVE12;  label: SERVE10
+
+132) example number: 468
+    sentence: " well as a matter of fact , i have found somebody . and i 've already asked him , and he 's willing to SERVE as our sponsor and to talk for us at the town council meeting tomorrow . "
+    guess: SERVE2;  label: SERVE12
+
+133) example number: 477
+    sentence: he used to get only $ 250 in an entire year from growing rice in the plot . " in a tent that SERVED as rd headquarters , an rd leader talked of the team 's accomplishments .
+    guess: SERVE12;  label: SERVE2
+
+134) example number: 483
+    sentence: most worldwide exports are sold through sales subsidiaries like caterpillar americas ( a western hemisphere trade corporation ) ; caterpillar-far east , a hong-kong-based company ; or caterpillar overseas , s . a . , a swiss corporation . these subsidiaries provide caterpillar with various tax benefits e . g . , caterpillar americas pays u . s . taxes at only a 34 percent tax rate and they also SERVE as much-needed coordinators of the worldwide selling effort .
+    guess: SERVE6;  label: SERVE2
+
+135) example number: 489
+    sentence: chef biagi , for one , agrees . he says that he enjoys it , but only if it 's SERVED warm with a glass of milk .
+    guess: SERVE12;  label: SERVE10
+
+136) example number: 491
+    sentence: are they in good taste ? do they attempt to clarify and illustrate what the author says , to make a further point , or to SERVE only as eye-catching " come-ons " ? 6 .
+    guess: SERVE10;  label: SERVE2
+
+137) example number: 494
+    sentence: goodbye . " this in a town founded in 1638 , where the first public building the puritan settlers had built was a dirt-floored church which also SERVED for town meetings !
+    guess: SERVE12;  label: SERVE2
+
+138) example number: 496
+    sentence: he meets with many of the 6000 visitors who come to study human resources school and abilities , inc . , each year . he also travels the globe to explain the success of abilities , which has SERVED as a model for similar projects in some 60 foreign countries .
+    guess: SERVE12;  label: SERVE2
+
+139) example number: 501
+    sentence: and you look to me to 've had enough , " he added personally for my benefit . it was notice that he would not SERVE me any more , which i took as intended .
+    guess: SERVE12;  label: SERVE10
+
+140) example number: 505
+    sentence: in february , mr . kckean was criticized in a general accounting office report for improperly using postal service funds to pay his lawyer when he testified at the 1984 confirmation hearings for attorney general edwin meese . the gao concluded that mr . mckean 's testimony didn 't SERVE any official purpose for the agency and recommended that he repay the agency .
+    guess: SERVE12;  label: SERVE2
+
+141) example number: 507
+    sentence: merewether was tempted for a moment to make some sort of maudlin speech about departed shipmates , then decided the truest appreciation of jackson would be shown by an issue of rum . " mr . davis , you may SERVE out a ration of spirits to all hands .
+    guess: SERVE12;  label: SERVE10
+
+142) example number: 509
+    sentence: lutte ouvriere , paris the following letter was written to le monde by m . roger errera , a senior official of the conseil d 'etat , france 's highest advisory body to the government in legislative matters . allow me to make a few clarifying comments of a legal nature on the facts presented in your recent article concerning a certain cafe in the latin quarter which refuses to SERVE blacks .
+    guess: SERVE12;  label: SERVE10
+
+143) example number: 513
+    sentence: the flabbergasted teen backed off . more often , mr . pritchard 's comedy SERVED as a counseling tool .
+    guess: SERVE12;  label: SERVE2
+
+144) example number: 519
+    sentence: " it 's a table , and after goldilocks and sue are dressed they 're going to have tea . " she casually indicated two dolls lying patiently naked on the floor while she selected clothing for them from a box which SERVED as a dolls ' wardrobe .
+    guess: SERVE10;  label: SERVE2
+
+145) example number: 523
+    sentence: digestion is made easy and complete , so that every atom feeds . it 's a great mistake to SERVE such foods infrequently . . . . it is an interesting piece of copy , with its temperate phrasing and its modest and mysterious claim that " every atom feeds . "
+    guess: SERVE12;  label: SERVE10
+
+146) example number: 532
+    sentence: merewether felt a sudden warmth for this man ; at least he had experience as an officer in the navy and should not be unreasonable in his demands . " sir , i always remain on deck with the pilot while we are in the hooghly , but you are welcome to use my cabin and have sangh SERVE you lunch , anything you want .
+    guess: SERVE12;  label: SERVE10
+
+147) example number: 535
+    sentence: people aren 't saying , 'let 's have cold cuts and warm beer . ' " indeed , some executives willing to have their lunch interrupted by a reporter wax eloquent about the many purposes SERVED by eating out on the company .
+    guess: SERVE12;  label: SERVE2
+
+148) example number: 542
+    sentence: white in color , it chooses dark nights to appear before mountain travelers , snatching their lunch baskets from them and muttering sullen threats ; it also scares horses , hunts down outlaws , and works all sorts of evil . the chonchon has the shape of a human head ; its ears , which are extremely large , SERVE as wings for its flight on moonless nights .
+    guess: SERVE10;  label: SERVE2
+
+149) example number: 545
+    sentence: the donor of this recipe says she has seen chicken wings boned and stuffed in the same manner . the wing swells up so with stuffing that one will SERVE one person .
+    guess: SERVE2;  label: SERVE10
+
+150) example number: 546
+    sentence: this problem can easily be solved without anybody , young or old , feeling discriminated against . set up tables wherever they can be SERVED conveniently , cover them with different-colored tablecloths .
+    guess: SERVE12;  label: SERVE10
+
+151) example number: 548
+    sentence: it 's time to take a look at bubble buildings . you see them around : sitting over somebody 's swimming pool in the suburbs , or covering a tennis court , or in a factory yard SERVING as a storage shed .
+    guess: SERVE10;  label: SERVE2
+
+152) example number: 555
+    sentence: for all those millions , you might expect gondolas . but general mills has lavished its time and money on creating an ambiance and cuisine that are sort of italian -- the restaurants do SERVE spaghetti -- but not so italian as to put off the american mass market .
+    guess: SERVE12;  label: SERVE10
+
+153) example number: 560
+    sentence: to a large extent it is the consumer who bears the burden of the tax . the farmer , the manufacturer , and the merchant SERVE as agents of the taxing authority , collecting the vat from their customers and remitting the appropriate share to the government .
+    guess: SERVE6;  label: SERVE12
+
+154) example number: 562
+    sentence: some plantations use irrigating ditches and let the water flow from the ditches into furrows in the fields as needed . there are no lakes or large rivers to SERVE as irrigation water supplies .
+    guess: SERVE10;  label: SERVE2
+
+155) example number: 567
+    sentence: as a quaker penn would have liked to abolish capital punishment entirely , but this was not possible under the charter he held from the king . all prisons , according to penn , were to provide free food and lodging , and to SERVE as work houses , providing useful employment for " felons , vagrants , and loose and idle persons . "
+    guess: SERVE12;  label: SERVE2
+
+156) example number: 574
+    sentence: in scandinavia the food variations between the rich and the poor are not as different as those in other countries . meals might be SERVED four or five times a day .
+    guess: SERVE2;  label: SERVE10
+
+157) example number: 576
+    sentence: a new feature , " out in front , " makes its debut on page 80 , ( ink print ) opposite the editorial . this piquant glimpse of business life will SERVE as a frontispiece for the main body of the magazine .
+    guess: SERVE12;  label: SERVE2
+
+158) example number: 578
+    sentence: the anti-alcohol campaign is much more attuned to the u . s . executive on a pritikin diet . alcohol is now SERVED only between 2 p . m . and 7 p . m .
+    guess: SERVE12;  label: SERVE10
+
+159) example number: 580
+    sentence: a cold blast of wind came in from the sea , and horace sutter turned up his coat collar and headed for home . he lived alone , in a two-room apartment that SERVED as his law office as well as his living quarters .
+    guess: SERVE12;  label: SERVE2
+
+160) example number: 582
+    sentence: then , eying me closely , he told me that the black panthers would like for me to join their party . " you could SERVE as a minister of information . "
+    guess: SERVE2;  label: SERVE12
+
+161) example number: 584
+    sentence: " half an hour . " he motioned to them to sit down on a flattened log that SERVED as a bench and looking at joaquin , jerked his thumb down the trail in the direction they had come from .
+    guess: SERVE10;  label: SERVE2
+
+162) example number: 596
+    sentence: " oh , yes ! " she thought a chili was something cool , as its name imported , and was SERVED with some .
+    guess: SERVE12;  label: SERVE10
+
+163) example number: 598
+    sentence: some say that de gaulle feels about france the way ( historian jules ) michelet felt about joan of arc yet michelet never considered himself to be joan of arc . the case is indeed without precedent , particularly since here the hero SERVES as his own historian .
+    guess: SERVE2;  label: SERVE12
+
+164) example number: 601
+    sentence: if sovereignty at bay is right , the time of these enterprises also will be finite . and the new wave of multinational enterprises just offstage will be no less indispensable , no less dominant and , alas , even more tension begetting in the countries they SERVE than those that went before .
+    guess: SERVE12;  label: SERVE6
+
+165) example number: 603
+    sentence: we have over 300 different titles , ranging from how to lick a mole ( garden variety ) to how to grow nuts in your backyard ( sometimes it 's easy to go nuts ! ) . these leaflets SERVE two purposes : they give readers information for their green thumb library , and they help us answer letters .
+    guess: SERVE10;  label: SERVE2
+
+166) example number: 607
+    sentence: wherehouse directors rejected those bids . adler & shaykin has received financing commitments from chemical new york corp . and equitable capital management corp . , and merrill lynch capital markets is SERVING as its financial adviser for the buy-out , which will be completed by wei holdings inc . , the company formed by adler & shaykin .
+    guess: SERVE6;  label: SERVE12
+
+167) example number: 610
+    sentence: i really wanted to become a comedian . comedy writing SERVED as my apprenticeship .
+    guess: SERVE12;  label: SERVE2
+
+168) example number: 613
+    sentence: act ii : osmin renews his attempts , as clumsy as they are vain , to win blonde 's favor ; the pasha makes equally vain attempts , not without threats , to win constanze 's ; pedrillo informs blonde of belmonte 's arrival , and renders osmin harmless by plying him with wine ; belmonte appears and joins in a quartet at first a double duet in which the plan of escape is agreed upon ; the men doubt the women 's constancy ; reaction of the women ; reconciliation and hymn to love . act iii : heroic aria of belmonte ; serenade of pedrillo , which SERVES as a signal that all is ready ; flight and discovery .
+    guess: SERVE10;  label: SERVE2
+
+169) example number: 614
+    sentence: they have worked all their lives to do this , and they want to do it right . " mr . terra might SERVE as the archetype .
+    guess: SERVE12;  label: SERVE2
+
+170) example number: 622
+    sentence: daniel let a few minutes pass before he emerged . he walked casually along the sidewalk to the open end of the street and noticed that the house on the corner had a high hedge to SERVE as a wall between itself and the avenue .
+    guess: SERVE10;  label: SERVE2
+
+171) example number: 624
+    sentence: a major question is whether these monies were being surreptitiously used to benefit col . north , who was overseeing the covert arms sales . ms . napier , who has had a longer association with gen . secord than ms . corbin , often SERVED as a courier between col . north and the private network .
+    guess: SERVE2;  label: SERVE12
+
+172) example number: 627
+    sentence: it may have enough youthful charm to be pleasant and enough character to be recognizable , but it never fully develops quality and dies young and unfulfilled . these wines suit modern conditions when restricted storage space prevents wines being laid down and lack of time deprives them of proper care in decanting and SERVING .
+    guess: SERVE2;  label: SERVE10
+
+173) example number: 628
+    sentence: in arranging the disposition of one of the banks , bank of iron county , parowan , utah , the fdic used a new technique in which the agency essentially paid the institution that purchased the failed bank to take all of the loans , including the bad ones . this should be less costly for the fdic than the agency 's usual practice of purchasing the bad loans itself , according to fdic officials who hope the transaction will SERVE as a model for future bank failures .
+    guess: SERVE12;  label: SERVE2
+
+174) example number: 629
+    sentence: afghanistan comes to mind above all in this regard . " the arms-control process going back to the early 1960s did SERVE the kremlin 's purposes in " codifying " the soviet union 's superpower status , the report says .
+    guess: SERVE10;  label: SERVE2
+
+175) example number: 630
+    sentence: chairman , elliott averett , robert h . b . baldwin , william c . blanchard , george a . brownell , james carey , richard m . colgate , charles e . cotting , agnes fowler , henry w . gadsden , edward l . glaser , mrs . h . donald harvey , wallace s . jones , james h . leatham , ph . d . , richard w . mayer , r . townley paton , m . d . , landon peters , john t . pirie , jr . , dorrance sexton , raymond d . stitzer , mrs . frederick r . wierdsma , walter a . wood . " dialogue " , the recorded magazine for blind persons , has awarded the seeing eye guide first place in a competition for bulletins issued by agencies SERVING blind people .
+    guess: SERVE12;  label: SERVE6
+
+176) example number: 637
+    sentence: in the year 688 the caliph abd al-malik decided to build over the rock a splendid dome that would rival the dome of the church of the holy sepulcher . he sent letters throughout the arab empire with an appeal for money and for skilled craftsmen , and as the funds were collected , a small domed building was erected beside the rock to SERVE as a treasury .
+    guess: SERVE6;  label: SERVE2
+
+177) example number: 638
+    sentence: completion of the transaction is expected by june 30 , 1988 . mt baker , with assets of $ 164 million and deposits of $ 110 million , represents a strategic access to areas of washington state not currently SERVED by u . s . bancorp or its units , u . s . bancorp said .
+    guess: SERVE12;  label: SERVE6
+
+178) example number: 639
+    sentence: its members , elected on the basis of professional achievement , are mainly doctors and other health professionals but at least 25 % must be lawyers , economists , social scientists and other nonmedical professionals . in return for the honor of belonging , members SERVE without pay on study committees the institute sets up to examine important health issues or to answer specific congressional and agency requests for help .
+    guess: SERVE6;  label: SERVE12
+
+179) example number: 644
+    sentence: the ford motor co . unit , which previously said it planned to increase the number of its branches , said it hopes to continue expanding in the nation 's second-largest retailer at that pace over the next several years . while bank deregulation has caused many major banks to abandon SERVING lower and middle income groups , first nationwide 's chairman , anthony m . frank , said at a news conference here that the expansion in retail stores " might be the way you solve the problem of serving just plain folks . "
+    guess: SERVE12;  label: SERVE6
+
+180) example number: 663
+    sentence: for all the blood and treasure spilled and spent on the egyptian expedition of 1798-9 , the net results in terms of territorial , economic , or diplomatic advantage to france proved to be absolutely zero . but , for once , a foolish war SERVED a good purpose .
+    guess: SERVE12;  label: SERVE2
+
+181) example number: 664
+    sentence: among other things , the broader coverage reflects ms . karpatkin 's personal interests . each week on a new york radio show , she SERVES as the liberal counterweight to mobil corp . 's outspoken public relations man , herbert schmertz .
+    guess: SERVE6;  label: SERVE2
+
+182) example number: 667
+    sentence: so gujarat , it would seem , offers little relief for the drinker . but go into a certain tea shop in ahmadabad , the state 's largest city , order " one local and one english , " and the proprietor will SERVE a cup of indian tea at your table -- and deposit a bottle of whiskey on the back seat of your car .
+    guess: SERVE2;  label: SERVE10
+
+183) example number: 671
+    sentence: in 1980 , with $ 60 , 000 , they launched " shear madness " at a tiny , basement cabaret theater in a boston alley . because of a slow start , the two dubbed their venture cranberry productions inc . , as in " what do you SERVE with a turkey ? "
+    guess: SERVE6;  label: SERVE10
+
+184) example number: 675
+    sentence: for years the kucchis in afghanistan had enjoyed greater status than the farmers for the simple reason that the terrain of the country was so rugged . they SERVED as the traders and carriers of culture , and the farmers were more dependent upon them than the kucchis were upon the farmers for their food .
+    guess: SERVE10;  label: SERVE12
+
+185) example number: 681
+    sentence: Can't print sentence
+    guess: SERVE10;  label: SERVE12
+
+186) example number: 683
+    sentence: fortunately , some of them carried rugs which they shared willingly with arthur . when they finally arrived in gloomy euston station , his red muffler SERVED as a beacon for aunt annette .
+    guess: SERVE12;  label: SERVE2
+
+187) example number: 686
+    sentence: once upon a time , before the ayatollah khomeini 's revolutionary hordes appeared on the scene , this was a peaceful picnic spot . nearby stands a dusty , dilapidated 40-room tourist hotel that now SERVES as a barracks for iraqi soldiers .
+    guess: SERVE10;  label: SERVE2
+
+188) example number: 690
+    sentence: they marched around the corner to the dim , cool public room . the old white-haired portuguese SERVED the london gin and lemons .
+    guess: SERVE2;  label: SERVE10
+
+189) example number: 696
+    sentence: it must have caused their chiefs to decide on revenge . . . " the door opened and sangh came in balancing his tray as rapid rolled in the long swell . he swiftly SERVED mr . baynes with toasted biscuit , jam , a cup of tea ; tea for sir thomas and merewether .
+    guess: SERVE12;  label: SERVE10
+
+190) example number: 699
+    sentence: james agee described a tenant family over two decades ago , in let us now praise famous men . it SERVES , unaltered , as a valid description of what passes for migrant " sanitation . "
+    guess: SERVE10;  label: SERVE2
+
+191) example number: 707
+    sentence: during the sprint crawl stroke the hips remain level . they SERVE as a base for the articulations of the legs .
+    guess: SERVE12;  label: SERVE2
+
+192) example number: 709
+    sentence: r . r . graber and jean graber of the illinois natural history survey say that in the 50 years from 1907 to 1957 the state 's cardinal population increased mainly because of its northward extension . this was aided by the increase of the bird 's favorite woody habitats more shrubbery about homes ; small woods and orchards with undergrowth along their edges ; hedgerows SERVING as fences .
+    guess: SERVE6;  label: SERVE2
+
+193) example number: 710
+    sentence: two factors were considered in selecting these institutions : ( 1 ) the percent of students enrolling from out of state and ( 2 ) the percent of students residing on campus . colleges SERVING a local student clientele offer many opportunities and varied satisfactions .
+    guess: SERVE12;  label: SERVE6
+
+194) example number: 715
+    sentence: they live on the land , but not by the land . the woodcock is a living refutation of the theory that the utility of a game bird is to SERVE as a target , or to pose gracefully on a slice of toast .
+    guess: SERVE10;  label: SERVE2
+
+195) example number: 730
+    sentence: you were saying goodbye to fields and trees , and even to headlands of fields where a plow never got and where not an ear of barley had chanced to grow . in all these corners there were bits of things , machinery , broken delft , cowhorns that had SERVED as funnels , machine oil tins and the rags and remnants that the scarecrows wore .
+    guess: SERVE12;  label: SERVE2
+
+196) example number: 732
+    sentence: in any case , america has not really stood between japan and communist china , and the incompleteness of the relationship between the two is basically because of peking 's intransigence and japan 's interest in taiwan . still , among the general public , japan 's unsatisfactory relationship with communist china is blamed principally on the united states and SERVES as a major strain in the relations between the two countries .
+    guess: SERVE6;  label: SERVE2
+
+197) example number: 742
+    sentence: in every firm with more than five jobs , the workers elect a council by secret ballot . most councils number anywhere from 15 to 120 members , depending on the size of the enterprise , and they SERVE for two years .
+    guess: SERVE6;  label: SERVE12
+
+198) example number: 744
+    sentence: there were the spare oars , very true . they would SERVE as roof beams , but with what was i to cover them ?
+    guess: SERVE10;  label: SERVE2
+
+199) example number: 745
+    sentence: in september , after three years of struggling , mr . bailey 's three partners left the firm . lsi will continue to SERVE the few clients it drew , but won 't seek any new business , mr . bailey says .
+    guess: SERVE12;  label: SERVE6
+
+200) example number: 746
+    sentence: the bearish performance of nippon telegraph & telephone shares also chilled trading . nt & t has SERVED as a sentiment weather vane for the market lately , portending , according to some observers , whether general share prices can or can 't be primed for a rally .
+    guess: SERVE12;  label: SERVE2
+
+201) example number: 747
+    sentence: most of the children have received little medical or dental attention . some 750 high-minded physicians like dr . kruger will soon be SERVING in 41 such office of economic opportunity healthright centers around the nation .
+    guess: SERVE2;  label: SERVE12
+
+202) example number: 752
+    sentence: now his hero was more fascinating than ever ; he had seen foreign places and could tell tales of ships and battles . lawrence had SERVED on the flagship and was the friend of a real admiral .
+    guess: SERVE2;  label: SERVE12
+
+203) example number: 753
+    sentence: after the even battle , the north and south both used the name monitor to designate a new type of warship . wooden frigates were still in use , but young men going into either navy SERVED in the strange experimental vessels .
+    guess: SERVE2;  label: SERVE12
+
+204) example number: 756
+    sentence: there is a jamaican broadcast station owned by the government . it SERVES the entire island . "
+    guess: SERVE2;  label: SERVE6
+
+205) example number: 760
+    sentence: in july 1949 , after the initial success of dr erhard 's experiment in free-enterprise economics , the party firmly rejected all economic planning and fundamental social reform . the strong and determined leadership of konrad adenauer SERVED as an effective substitute for a programme .
+    guess: SERVE12;  label: SERVE2
+
+206) example number: 763
+    sentence: four large tents had already been pitched in a field . as the marchers lined up for supper ( three tons of spaghetti ) , which was SERVED to them on paper plates , from brand-new garbage pails , night fell .
+    guess: SERVE6;  label: SERVE10
+
+207) example number: 765
+    sentence: in dallas , 1 , 600 people applied for 110 spots in a two-month training program that would enable those chosen to teach without going back to school . one of them , former american airlines flight attendant kendall haggerty , says : " there 's a limit to how much good you 're doing SERVING tea and coke .
+    guess: SERVE12;  label: SERVE10
+
+208) example number: 771
+    sentence: but there is a debit side to the ledger , too . the hijackings SERVED as a warning to the western nations that they had better take stronger steps to safeguard their airplanes .
+    guess: SERVE10;  label: SERVE2
+
+209) example number: 776
+    sentence: the chief baker in hong kong , incited " by the authorities , " my father later told us , put arsenic in the dough , aiming to poison certain english troops . grandpa , all unknowing , SERVED the bread at his breakfast .
+    guess: SERVE12;  label: SERVE10
+
+210) example number: 784
+    sentence: the overall success of the one-to-one relationship in reaching city slum children has stimulated a number of suburban communities to adopt volunteer programs of their own . freeport , l . i . , and lexington , mass . , have recently adopted the idea ; in orange county , calif . , hundreds of volunteers are SERVING in classrooms , preparing curriculum materials , working in playgrounds .
+    guess: SERVE6;  label: SERVE12
+
+211) example number: 788
+    sentence: most of these reports are mailed , but physicians must phone in the information immediately if it involves one of 15 particularly worrisome diseases , from measles to yellow fever or cholera . they also must report immediately if it even appears that any disease on the lists might have been contracted in such places as day-care centers , nursing homes or hospitals -- or from food SERVED in an institution or restaurant .
+    guess: SERVE2;  label: SERVE10
+
+212) example number: 790
+    sentence: this was always held , year after year , on a friday evening . mackenzie , ever shy and distant , refused to mingle in the festivities , and begged of my foreman to be permitted to SERVE at the buffet .
+    guess: SERVE12;  label: SERVE10
+
+213) example number: 791
+    sentence: as previously reported , santa clara , calif . - based intel last month terminated a 10-year licensing agreement with advanced micro after that company charged that intel had violated the so-called second-source pact by withholding licenses for its 80386 microprocessor and 8087 co-processor chips . the 80386 chip is intel 's latest and most powerful microprocessor and SERVES as the brain of personal computers made by international business machines corp . and their clones .
+    guess: SERVE6;  label: SERVE2
+
+214) example number: 803
+    sentence: this can be gauged from the complete absence of such instruments in contemporary italian paintings and sculptures . later on , bowed instruments imported from germany and france SERVED as models to the italians with the result that their craft of instrument-making took an upward trend , leading to a unique mastery .
+    guess: SERVE12;  label: SERVE2
+
+215) example number: 805
+    sentence: in the pure telepathy test there was no object or objective record for the agent or sender to look at ; nothing but the mental image or thought of an object . in clairvoyance tests no one knew which object had been selected to SERVE as target until the time of the checkup .
+    guess: SERVE10;  label: SERVE2
+
+216) example number: 806
+    sentence: classes are held in cabins which duplicate the interiors of all aircraft used by the airline . here trainees SERVE complete meals in practice sessions that are videotaped for subsequent step-by-step review .
+    guess: SERVE2;  label: SERVE10
+
+217) example number: 808
+    sentence: real sales are restaurant sales after excluding the effect of additional outlets and price increases . in this case , wendy 's also excluded breakfast sales , as most of its restaurants have stopped SERVING breakfast .
+    guess: SERVE12;  label: SERVE10
+
+218) example number: 810
+    sentence: the english guinea pig is a short-haired type . in modern times the guinea pig has SERVED as a valuable laboratory animal , both for medical and biological research .
+    guess: SERVE12;  label: SERVE2
+
+219) example number: 818
+    sentence: biologist howard m . temin , thirty-six , of the university of wisconsin ( and , independently , david baltimore of m . i . t . ) shook the foundations of conventional biological thinking by discovering a reverse flow of genetic information , to dna rather than from it . temin believes that virus-like entities SERVE an important role in the early life of an organism .
+    guess: SERVE12;  label: SERVE2
+
+220) example number: 824
+    sentence: now he stood one foot in 4 , the other on an open window sill . somebody put deck chairs against the rail to SERVE as steps .
+    guess: SERVE10;  label: SERVE2
+
+221) example number: 827
+    sentence: we continued past the kennel to a low outbuilding . half of it SERVED as an open-fronted garage .
+    guess: SERVE12;  label: SERVE2
+
+222) example number: 834
+    sentence: the plan estimates that if everything went as hoped , the system might be able to get by without drawing any federal money at all , particularly in early years -- a potentially important point in the face of current congressional budget-cutting requirements . " the system doesn 't need a cash infusion so long as it has market borrowing access , capital to absorb losses and the ability to SERVE farmer-borrowers on a basis that is both reasonable to them and profitable for fcs over the long term , " the proposal asserts .
+    guess: SERVE2;  label: SERVE6
+
+223) example number: 835
+    sentence: in 1845 the female department of the new york prison association , under the leadership of a daughter , abby hopper gibbons , founded the first halfway house for women prisoners in the world . today the isaac hopper home in new york continues to SERVE as a haven for recently paroled women and girls .
+    guess: SERVE12;  label: SERVE2
+
+224) example number: 838
+    sentence: almost 17 years after his death , and 21 years after he was pushed from power , sukarno can still draw a crowd . some people worship his memory ; others let their admiration for him SERVE as an indirect -- and politically safe -- expression of their dissatisfaction with the long-ruling regime of president suharto .
+    guess: SERVE12;  label: SERVE2
+
+225) example number: 841
+    sentence: ling-ling ambled out of her crate , sniffed tentatively , roamed about her new apartment , and seemed satisfied . hsing-hsing , less of an extrovert , promptly retreated to the dark alcove that would SERVE as his den .
+    guess: SERVE12;  label: SERVE2
+
+226) example number: 845
+    sentence: in addition to private buses on fixed routes , there are about 4 , 500 flexible-route minibuses , most individually owned . these fully deregulated minibus services have proved especially successful at SERVING sparsely populated districts without subsidy and acting as feeder services for the subway .
+    guess: SERVE10;  label: SERVE6
+
+227) example number: 854
+    sentence: in fact , bertha would have blown a gasket . then the stewardess SERVED lunch and i relaxed .
+    guess: SERVE12;  label: SERVE10
+
+228) example number: 868
+    sentence: one of the great achievements of the period after world war ii was the codification of the rules for international trade in gatt , the general agreement on tariffs and trade . even though it is honored as much in the breach as in the observance , it still SERVES as the norm .
+    guess: SERVE12;  label: SERVE2
+
+229) example number: 869
+    sentence: the plan , drafted by chairman lawton chiles ( d . , fla . ) of the senate budget committee , would allow military spending to rise at a rate equal to inflation , but only if president reagan agreed to an $ 18 . 3 billion tax increase also contained in the budget resolution . the senate resolution must be reconciled with a house-passed plan that calls for an $ 18 billion tax increase , before it can SERVE as a guide to future congressional action .
+    guess: SERVE12;  label: SERVE2
+
+230) example number: 870
+    sentence: " there , " he said , giving the bucket a whack with the palm of his hand . " that will SERVE . "
+    guess: SERVE10;  label: SERVE2
+
+231) example number: 871
+    sentence: the railroad has functionally substituted for a new superhighway , while sparing philadelphia the burden of the automobiles brought into town by such a highway . to put it another way , the railroad SERVES essentially as a remote downtown parking lot and conveyer system .
+    guess: SERVE6;  label: SERVE2
+
+232) example number: 873
+    sentence: an official at another major u . s . auto company suggested consumers are confused by the hodgepodge incentive programs the companies are offering . " i don 't know whether the dog food we have put out hasn 't been SERVED in a pretty plate , or whether the dog food itself isn 't good enough , " he added .
+    guess: SERVE6;  label: SERVE10
+
